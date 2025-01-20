@@ -1,0 +1,2 @@
+D:\GithubNew\1\Trust Wallet\Trust-Wallet\Zylo-Trust-Wallet\Form11\obj\Debug\Form1.csproj.AssemblyReference.cache
+D:\GithubNew\1\Trust Wallet\Trust-Wallet\Zylo-Trust-Wallet\Form11\obj\Debug\Form1.csproj.CoreCompileInputs.cache
